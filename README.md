@@ -26,5 +26,6 @@
   | 결측치 처리 | - 데이터 상에서의 결측치가 다수 존재하는데, 이를 처리하기 위한 방도를 생각할 필요가 있음|
   |평가지표 확인| - 평가지표 결과값에 대한 해석이 필요할듯함|
 
-- **reference**
-  - Paper : Anticipation of of converging technology areas - A refined approach for the identification of attractive fields of innovation
+### reference
+
+- Paper : Anticipation of of converging technology areas - A refined approach for the identification of attractive fields of innovation
